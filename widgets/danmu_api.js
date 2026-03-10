@@ -24,6 +24,7 @@ WidgetMetadata = {
     {
       name: "server",
       title: "自定义服务器(自部署项目地址：https://github.com/huangxd-/danmu_api.git)",
+      value: "http://8.134.78.59:9321/ssqq111",
       type: "input",
       placeholders: [
         {
