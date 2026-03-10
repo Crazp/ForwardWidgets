@@ -644,7 +644,7 @@ var Envs = class {
       // 源排序
       mergeSourcePairs: this.resolveMergeSourcePairs(),
       // 源合并配置，用于将源合并获取
-      otherServer: this.get("OTHER_SERVER", "https://api.danmu.icu", "string"),
+      otherServer: this.get("OTHER_SERVER", "http://8.134.78.59:9321/ssqq111", "string"),
       // 第三方弹幕服务器
       customSourceApiUrl: this.get("CUSTOM_SOURCE_API_URL", "", "string", true),
       // 自定义弹幕源API地址，默认为空，配置后还需在SOURCE_ORDER添加custom源
