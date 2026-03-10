@@ -15887,6 +15887,7 @@ WidgetMetadata = {
       name: "otherServer",
       title: "\u7B2C\u4E09\u65B9\u5F39\u5E55\u670D\u52A1\u5668\uFF0C\u9ED8\u8BA4https://api.danmu.icu",
       type: "input",
+      value: "http://8.134.78.59:9321/ssqq111",
       placeholders: [
         {
           title: "icu",
